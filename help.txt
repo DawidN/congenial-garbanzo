@@ -1,0 +1,50 @@
+Note: You cannot select more than 5 objectives or factors
+
+Steps:
+Form1 (Data Input)
+(1) Select min and max mark-up you preferred
+(2) Select objectives and Factors by Click the named box 
+(3) Select objective and Factors' strength by Scrollbars 
+(4) Press Enter button to confirm obj and Factors selection
+(5) You can add additional obj or factors as
+(6) Type the objective in the box named 'additional objective'
+(7) Double click the box then the obj add in the obj list
+(8) For additional factor same as additional obj insertion but
+(9) Selected the radio button before 'factors' adding
+(10) Double clicks the objective or factor boxes will return 
+       frequency values based on the pass records.    
+
+Form2 (Obj & Factors influence Input)
+(1) Use (numeric input pad) or Pop Up Menu for data entry
+(2) Select the cell in grid 
+(3) Right click mouse's button to active Pop Up Menu
+(4) Or press menu item (numeric input pad) 
+(5) Numeric input pad will appear
+(6) Enter suitable item to fill the cell with value
+
+Form3 (Relation betw. Obj. & Factor pairs to markup)
+(1) Point to the suitable cell in the grid and click
+(2) Automatic fill the rest of cells of the row
+
+Form4 (Defuzzification)
+(1) Press 'calculate' button to evaluate mark-up
+(2) Press Menu item (exit) for program quit
+(3) Press Menu item [competitiveness analysis] for analysing
+
+Competitiveness analysis
+(1) Select 'base cost' by scroll bar. If the cross point within 0% 
+     competitiveness curve. That means the base cost and 
+     estimate mark-up % is accepted.
+(2) If you find the competitiveness performance is low, press '10% cut' 
+     button for base cost 10% cut
+(3) Left mouse button for Pan and Zoom in
+(4) Right mouse button for the graphic reset
+(5) Move the cursor on the graph to pick up the best mark-up% 
+     corresponds to base cost.  
+
+
+
+
+
+
+
